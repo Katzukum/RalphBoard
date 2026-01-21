@@ -59,7 +59,7 @@ RalphBoard addresses all of these issues.
 - **Task Dependencies**: Set blockers to enforce execution order
 - **Automatic Transitions**: Tasks move through pipeline based on agent results
 - **Review Tracking**: Monitor retry attempts with configurable limits
-![appimage](appimage.png)
+![TaskImage](TaskImage.png)
 
 ### 🎨 Modern UI/UX its a work in progress
 

@@ -44,3 +44,4 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+workspaces/MatrixHTML
