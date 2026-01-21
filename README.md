@@ -43,12 +43,15 @@ RalphBoard addresses all of these issues.
 
 ## ✨ Features
 
+
+
 ### 🤖 AI Agent System
 
 - **CodingAgent**: Executes development tasks using OpenCode CLI integration
 - **ReviewerAgent**: Validates task completion against success criteria
 - **GeneratorAgent**: Auto-generates task breakdowns from project descriptions
 - **Custom Agents**: Deploy multiple agents with specialized system prompts
+![AgentImage](AgentImage.png)
 
 ### 📋 Task Management
 
@@ -56,8 +59,9 @@ RalphBoard addresses all of these issues.
 - **Task Dependencies**: Set blockers to enforce execution order
 - **Automatic Transitions**: Tasks move through pipeline based on agent results
 - **Review Tracking**: Monitor retry attempts with configurable limits
+![appimage](appimage.png)
 
-### 🎨 Modern UI/UX
+### 🎨 Modern UI/UX its a work in progress
 
 - **Dark Cyberpunk Theme**: Pure black (`#0a0a0f`) background with cyan/red/purple accents
 - **Glowing Effects**: Neon-style borders and box-shadows on hover
@@ -101,7 +105,7 @@ python -m venv .venv
 source .venv/bin/activate
 
 # Install dependencies
-pip install eel openai python-dotenv
+pip install -r requirements.txt
 ```
 
 ### Step 3: Configure Environment

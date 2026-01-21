@@ -1,6 +1,9 @@
 # Tooling Documentation
 toolingdocs/
 MatrixHTML/
+testproject/
+
+
 # Python
 __pycache__/
 *.py[cod]
