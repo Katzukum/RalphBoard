@@ -1,6 +1,6 @@
 # Tooling Documentation
 toolingdocs/
-
+MatrixHTML/
 # Python
 __pycache__/
 *.py[cod]

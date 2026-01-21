@@ -18,7 +18,17 @@
 
 ## 🎯 Overview
 
-**RalphBoard** is a production-ready AI orchestration platform that manages autonomous coding agents through an intuitive Kanban interface. Built on the "Ralph Wiggum Loop" iterative development pattern, it enables AI agents to work independently on tasks with built-in quality assurance and failure recovery.
+**RalphBoard** is a AI orchestration platform that manages autonomous coding agents through an intuitive Kanban interface. Built on the "Ralph Wiggum Loop" process, it enables AI agents to work independently on tasks with built-in quality assurance and failure recovery.
+
+
+### Why RalphBoard?
+I found with other AI orchestration platforms: 
+- Some are not autonomous.
+- Some don't use fresh context for each task. 
+- Some don't have a triage system to handle failed tasks.
+- Some don't have a way to visualize the task workflow. 
+- Some don't have a way to handle failed tasks.
+RalphBoard addresses all of these issues.
 
 ### Key Highlights
 
